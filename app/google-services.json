@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313086490109",
+    "project_id": "cobafirebase-audric",
+    "storage_bucket": "cobafirebase-audric.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313086490109:android:f5b3a25419bc4f6d529594",
+        "android_client_info": {
+          "package_name": "project.c14220332.cobafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmp_s5JnokgKDpTPHbjoslaewsEWg9aCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
